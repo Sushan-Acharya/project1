@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kaahi
+ *
+ */
+module forGithub {
+}
